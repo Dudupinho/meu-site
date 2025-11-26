@@ -1,1 +1,30 @@
 
+![Uploading minha_foto.png…]()
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Rubi como a pedra</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f0f8ff;
+    }
+    img {
+      width: 250px; /* tamanho da foto */
+      border-radius: 10px; /* cantos arredondados */
+      margin: 15px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌟 !RUBI! 🌟</h1>
+  <p>❤️ Essa foto só prova que você é uma obra-prima da vida. ❤️</p>
+
+  <!-- Aqui vai a foto -->
+  <img src="minha_foto.png" alt="minha_foto.png">
+
+  <p>❤️ Uma foto sua é como um presente para quem a vê ❤️ </p>
+</body>
+</html>
